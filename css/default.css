@@ -1,12 +1,15 @@
 @charset "UTF-8"; 
 body{
  background-color:#3094cf;
+ background-image:url(../img/puttyo.jpg);
+ 
  }
-h1{
+h1 span{
     font-size: 1.75em;
     color:#3399cc;
     text-align:left;
 }
+
 h2{
     font-size: 1.25em;
     border: #94c8b1 6px dotted;
@@ -14,6 +17,18 @@ h2{
     margin-bottom: 2;
     padding: 10px 15px;
 }
+#lead{
+    border-top: #6fbb9a 1px dotted;
+    text-align: center;
+}
+. read{
+    border-top: #6fbb9a 1px dotted;
+….
+    text-align: center;
+}
+
+
+
 p{
     font-size: 0.8em;
 }
