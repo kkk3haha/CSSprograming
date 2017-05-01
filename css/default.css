@@ -20,8 +20,8 @@ h2{
     padding: 10px 15px;
 }
 h2::first-letter
-{font-size: 10.0em;
-}
+font-size: 10.0em;
+
 #lead{
     border-top: #6fbb9a 1px dotted;
     text-align: center;
