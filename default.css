@@ -1,0 +1,27 @@
+@charset "UTF-8"; 
+body{
+ backgraound-color:#3094cf;
+ }
+h1{
+    font-size: 1.75em;
+    color:#fffff;
+    text-align:right;
+}
+h2{
+    font-size: 1.25em;
+    border: #94c8b1 6px dotted;
+    border-left:#d0e35b 15px solid;
+    margin-bottom: 2;
+    padding: 10px 15px;
+}
+p{
+    font-size: 0.8em;
+}
+li{
+    font-size: 0.8em;
+}
+
+a{
+    color:#1546cf;
+ }
+    
