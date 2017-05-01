@@ -19,8 +19,8 @@ h2{
     margin-bottom: 2;
     padding: 10px 15px;
 }
-h2::first-letter
-font-size: 10.0em;
+h2:first-letter{
+ font-size: 10.0em;}
 
 #lead{
     border-top: #6fbb9a 1px dotted;
